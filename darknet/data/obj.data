@@ -1,0 +1,4 @@
+classes = 1
+train  = /content/darknet/wider_face_val_bbx_gt.txt
+names = data/obj.names
+backup = backup/
